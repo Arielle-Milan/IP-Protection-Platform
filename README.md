@@ -38,37 +38,6 @@ This project was developed as a final-year BSc IT (Security and Network Engineer
 2. Azure App Service 
 3. Azure Storage 
 
-##  Folder Structure
-wipo-ip-platform/
-│
-├── backend/                              # Django Backend
-│   ├── apps/
-│   │   ├── accounts/                     # User authentication
-│   │   ├── works/                        # IP Work management + AI search
-│   │   ├── alerts/                       # Infringement detection
-│   │   └── blockchain/                   # Blockchain implementation
-│   ├── config/
-│   │   ├── settings.py                   # Django configuration
-│   │   └── urls.py                       # Main URL routing
-│   ├── manage.py
-│   ├── requirements.txt
-│   └── .env
-│
-├── frontend/                             # React Frontend
-│   ├── src/
-│   │   ├── api/                          # API client
-│   │   ├── components/                   # Layout components
-│   │   ├── context/                      # Auth context
-│   │   ├── pages/                        # Login, Register, Dashboard, Upload, Search
-│   │   ├── App.jsx                       # Main app with routing
-│   │   ├── main.jsx                      # Entry point
-│   │   └── index.css                     # Global styles
-│   ├── package.json
-│   └── vite.config.js
-│
-├── deploy-azure.ps1                      # Azure deployment script
-└── README.md                             # This file
-
 ### Backend Setup
 # Clone the repository
 git clone https://github.com/Arielle-Milan/wipo-ip-platform.git 
