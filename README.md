@@ -1,9 +1,6 @@
 # IP Protection Platform
 ## Overview
-
-The WIPO IP Protection Platform is a comprehensive web-based solution that enables creators, startups, and innovators to protect their intellectual property through digital timestamping using SHA-256 hashing, blockchain verification for immutable ownership records, automated infringement detection, and AI-powered similarity search.
-
-This project was developed as a final-year BSc IT (Security and Network Engineering) project and is submitted for WIPO internship consideration.
+The IP Protection Platform is a comprehensive web-based solution that enables creators, startups, and innovators to protect their intellectual property through digital timestamping using SHA-256 hashing, blockchain verification for immutable ownership records, automated infringement detection, and AI-powered similarity search.
 
 ## Features
 
